@@ -6,7 +6,7 @@
  - Studying hard......
 
 ## Devices
-[![Samsung Galaxy Note10](https://img.shields.io/badge/Samsung%20Galaxy%20Note10-101490?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com/us/smartphones/galaxy-note10/certified-re-newed-store/buy/?modelCode=SM5N970UZKAXAA)
+[![iPhone Xs](https://img.shields.io/badge/iPhone%20Xs-708090?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com)
 [![Hasee NH5x](https://img.shields.io/badge/Hasee%20NH5x-d9b611?style=flat-square&logoColor=ffffff)](http://www.hasee.com/en/index.aspx)
 
 ## Mock me

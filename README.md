@@ -6,7 +6,7 @@
  - Studying hard......
 
 ## Devices
-[![iPhone Xs](https://img.shields.io/badge/OnePlus%208-Red?style=flat-square&logo=apple&logoColor=ffffff)](https://www.oneplus.com)
+[![iPhone Xs](https://img.shields.io/badge/OnePlus%208-FF0000?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com)
 [![Hasee NH5x](https://img.shields.io/badge/Hasee%20NH5x-d9b611?style=flat-square&logoColor=ffffff)](http://www.hasee.com/en/index.aspx)
 
 ## Mock me

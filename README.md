@@ -6,7 +6,7 @@
  - Studying hard......
 
 ## Devices
-[![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+-FF0000?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com)
+[![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+-0000CD?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com)
 
 ## Mock me
 [![Telegram](https://img.shields.io/badge/%40Hidr05-1685a9?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Hidr05)

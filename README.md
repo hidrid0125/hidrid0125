@@ -2,8 +2,8 @@
 
 # Hi,there.
  - A computer rookie.
- - Chinese only,use Google Translate to communicate in other languages.
- - Studying hard......
+ - Chinese only
+ - Studying
 
 ## Devices
 [![Samsung Galaxy S20+](https://img.shields.io/badge/Samsung%20Galaxy%20S20+-0000CD?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com)

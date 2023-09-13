@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hidrid0125&show_icons=true&theme=onedark&hide_title=tru&hide_border=true">
 
-# Hi,there.
+# Hi
  - A computer rookie.
  - Chinese only
  - Studying

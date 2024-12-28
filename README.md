@@ -5,6 +5,6 @@
  - Studying
 
 ## Devices
-[![OnePlus 13](https://img.shields.io/badge/Onelpus%2013-eb0029?style=flat-square&logo=onelpus&logoColor=ffffff)](https://www.oneplus.com/cn/13)
+[![OnePlus 13](https://img.shields.io/badge/OnePlus%2013-eb0029?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/cn/13)
 
 

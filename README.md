@@ -2,7 +2,6 @@
 
 # Hi
  - A computer rookie.
- - Chinese only
  - Studying
 
 ## Devices

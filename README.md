@@ -5,6 +5,6 @@
  - Studying
 
 ## Devices
-[![Samsung Galaxy S20](https://img.shields.io/badge/Samsung%20Galaxy%20S20-0000CD?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com)
+[![OnePlus 13](https://img.shields.io/badge/Onelpus%2013-eb0029?style=flat-square&logo=onelpus&logoColor=ffffff)](https://www.oneplus.com/cn/13)
 
 
